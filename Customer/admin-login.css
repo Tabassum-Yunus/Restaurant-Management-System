@@ -2,7 +2,6 @@
     margin-left: 100px;
 }
 
-
 #home{
     display: inline;
     float: right;
@@ -20,9 +19,9 @@ a:hover{
 }
 
 .login-form{
-    background-color:  rgba(207, 99, 207, 0.232);
-   
+    background-color:  rgba(207, 99, 207, 0.232);   
 }
+
 fieldset{
     border: 0px;
 }
@@ -49,5 +48,3 @@ h2,h3{
     text-align: center; 
     margin-top: 1%;
 }
-
-
